@@ -1,7 +1,6 @@
 #Las variables son contenedores de información que pueden cambiar durante la ejecución de un programa.
+
 #Ejemplo practico con el equipo FC Barcelona
-
-
 equipo = "FC Barcelona"
 ciudad = "Cataluña"
 fundacion = 1899
